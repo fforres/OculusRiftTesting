@@ -47,7 +47,6 @@
   <ItemGroup>
      <Compile Include="Assets\NoiseBrush\Scripts\Editor\Layout.cs" />
      <Compile Include="Assets\NoiseBrush\Scripts\Editor\NoiseBrushEditor.cs" />
-     <None Include="Assets\GhostFreeRoamCamera\READEME.txt" />
      <None Include="Assets\Wispy Sky\ReadMe.txt" />
      <None Include="Assets\3rdPerson\readme.txt" />
  <Reference Include="Assembly-UnityScript">
